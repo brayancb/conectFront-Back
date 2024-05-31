@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brayancb/conectFront-Back.git/static/css/main.f855e6bc.css",
+    "main.js": "/brayancb/conectFront-Back.git/static/js/main.61897285.js",
+    "static/js/453.acca0757.chunk.js": "/brayancb/conectFront-Back.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/brayancb/conectFront-Back.git/index.html",
+    "main.f855e6bc.css.map": "/brayancb/conectFront-Back.git/static/css/main.f855e6bc.css.map",
+    "main.61897285.js.map": "/brayancb/conectFront-Back.git/static/js/main.61897285.js.map",
+    "453.acca0757.chunk.js.map": "/brayancb/conectFront-Back.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.61897285.js"
+  ]
+}
